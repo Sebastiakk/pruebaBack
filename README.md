@@ -1,2 +1,6 @@
 # pruebaBack
-# npm install
+To run locally:
+
+Clone this repo
+Run npm install
+Run npm start
